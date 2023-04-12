@@ -19,7 +19,6 @@ print("Wynik potęgi b^a: ", potega_b)
 print("Wynik pierwiastkowania: ", pierwiastek)
 
 promien = 0
-pole = math.pi * float(promien) ** 2
 
 while promien <= 0:
     promien = float(input("Podaj promień koła: "))
